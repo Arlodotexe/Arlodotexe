@@ -20,8 +20,8 @@
 ### Stats
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlodotexe&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlodotexe&layout=compact" />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arlodotexe&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arlodotexe&count_private=true" />
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arlodotexe" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arlodotexe" />
