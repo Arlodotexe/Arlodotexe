@@ -22,6 +22,6 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlodotexe&layout=compact" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arlodotexe&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arlodotexe&count_private=true" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arlodotexe" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arlodotexe" />
