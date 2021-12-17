@@ -3,8 +3,8 @@
 <a href="https://aka.ms/windowstoolkit" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/41346473?s=200&v=4" height="50" /></a>
 <a href="https://www.youtube.com/watch?v=Q1wxJzg1ikE&list=PLkJxGhy7bOVieFOiZqUO4su0YITXgrlJP&index=4" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146480088-c41497c2-be8a-474c-975d-b3898ded4bfc.png" height="50" /></a>
 <a href="https://platform.uno/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146479929-d63b1332-2943-4cbb-9860-9454898fc02e.png" height="50" /></a>
-<a href="https://www.youtube.com/watch?v=5Uj6uR3fp-U" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146479867-9beede9e-9947-4607-8344-53eb3557720c.png" height="50" /></a>
-<a href="https://docs.microsoft.com/en-us/windows/apps/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146479704-45604aa9-7da1-4c35-8f7c-7294890e1b2c.png" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/windows/apps/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146479867-9beede9e-9947-4607-8344-53eb3557720c.png" height="50" /></a>
+<a href="https://www.youtube.com/watch?v=5Uj6uR3fp-U" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146479704-45604aa9-7da1-4c35-8f7c-7294890e1b2c.png" height="50" /></a>
 
 <br />
 <br />
