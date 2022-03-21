@@ -12,7 +12,7 @@
 
 - Owner of the [UWP Community](https://uwpcommunity.com/), maintainer of our collab services and coordinator of our annual [Launch Event](https://uwpcommunity.com/launch/2021/).
 - Maintainer on the [Windows Community Toolkit](https://aka.ms/windowstoolkit).
-- Creator and lead dev of Strix Music v2 - The last music player you'll ever need.
+- Creator and lead dev of [Strix Music v2](https://www.strixmusic.com/) - The last music player you'll ever need.
 - Enthusiastic about bleeding edge tech like [IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U) and the [Uno Platform](https://platform.uno/).
 - Not a real Owl.
 - Potential withers in the face of complacency.
