@@ -1,5 +1,5 @@
 # Arlo Godfrey
-<a href="https://uwpcommunity.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146480303-dc9cbd1b-d204-41a0-aac4-ce65325a3b1a.gif" height="50" /></a>
+<a href="https://uwpcommunity.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146480303-dc9cbd1b-d204-41a0-aac4-ce65325a3b1a.gif" width="50" /></a>
 <a href="https://aka.ms/windowstoolkit" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/41346473?s=200&v=4" height="50" /></a>
 <a href="https://strixmusic.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146480088-c41497c2-be8a-474c-975d-b3898ded4bfc.png" height="50" /></a>
 <a href="https://platform.uno/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/9384894/146479929-d63b1332-2943-4cbb-9860-9454898fc02e.png" height="50" /></a>
