@@ -27,8 +27,7 @@
   <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arlodotexe" />-->
   
   
-### Programmers Oath<sup>[0](https://www.youtube.com/watch?v=Tng6Fox8EfI)[1](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)</sup>
-#### To defend and preserve the honor of the profession of computer programmers, I promise that, to the best of my ability and judgement:
+#### To defend and preserve the honor of the profession of computer programmers, I promise that, to the best of my ability and judgement:<sup>[[0]](https://www.youtube.com/watch?v=Tng6Fox8EfI)[[1]](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)</sup>
 
 1. I will not produce harmful code.
 
@@ -47,3 +46,4 @@
 8. I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
 
 9. I will never stop learning and improving my craft.
+
