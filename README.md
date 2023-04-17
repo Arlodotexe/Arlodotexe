@@ -15,7 +15,7 @@
 - Creator and lead dev of [Strix Music v2](https://www.strixmusic.com/) - The last music player you'll ever need.
 - Enthusiastic about bleeding edge tech like [IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U) and the [Uno Platform](https://platform.uno/).
 - Not a real Owl.
-- Potential withers to complacency.
+- Potential dies to complacency.
 
 ### Stats
 
