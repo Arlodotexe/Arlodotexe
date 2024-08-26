@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- Making things that make life easier.
+- Making things that make making things easier.
 - Owner of the [UWP Community](https://uwpcommunity.com/), maintainer of our collab services and coordinator of our annual [Launch Event](https://uwpcommunity.com/launch/2021/).
 - Maintainer on the [Windows Community Toolkit](https://aka.ms/windowstoolkit).
 - Creator and lead dev of [Strix Music v2](https://www.strixmusic.com/) - The last music player you'll ever need.
